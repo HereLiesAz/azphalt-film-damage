@@ -1,0 +1,9 @@
+{
+    "name":  "@azphalt/vegas.film.damage",
+    "version":  "1.0.0",
+    "description":  "Animates sepia, contrast, blur, and opacity to simulate film flicker and projector damage.",
+    "private":  false,
+    "scripts":  {
+                    "build":  "node build.js"
+                }
+}
