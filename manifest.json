@@ -1,5 +1,5 @@
 {
-  "id": "vegas.film.damage",
+  "id": "com.hereliesaz.azphalt.film-damage",
   "version": "1.0.0",
   "name": "Vintage Film Damage",
   "description": "Animates sepia, contrast, blur, and opacity to simulate film flicker and projector damage.",
